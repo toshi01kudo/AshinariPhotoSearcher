@@ -11,7 +11,7 @@ Googleで「写真素材　足成」を検索するとサイト内検索フォ�
 ![Google検索方法](./ashinari_google_search_image.png)
 
 [^1]:https://siodimaly.hateblo.jp/entry/20200509/1589003382
-//TRPGをやるときに便利なサイトさんまとめ
+[^1]: TRPGをやるときに便利なサイトさんまとめ
 
 ## 前提条件
 * ブラウザのアドオンにて動作します。
