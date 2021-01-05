@@ -17,7 +17,7 @@
     // 元々検索ボックスがあった箇所に検索ボックスを生成。
     $(".container-leftarea .area-search").append(
         `<label for="search" accesskey="4"></label>
-<input id="search" placeholder="1つキーワードを入力" name="search" />
+<input id="search" placeholder="キーワードを入力" name="search" />
 <input id="search-buttom" type="submit" value="検索" />`);
     // 検索ボタンをクリックされたらGoogleの検索へ移動。
     $(".container-leftarea .area-search #search-buttom").click(function(){
