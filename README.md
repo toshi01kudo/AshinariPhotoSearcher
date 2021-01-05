@@ -1,7 +1,8 @@
 # AshinariPhotoSearcher
 
 フリー写真サイト「足成」さまの検索を楽にするツール。\
-[写真素材　足成](http://www.ashinari.com)
+[写真素材　足成](http://www.ashinari.com)\
+<img width="300" alt="Google検索方法" src="./ashinari_google_search_box.png">\
 
 フリーの写真を探している際に、「足成」さまを頻繁に利用させていただいております。\
 現在検索機能が利用できないということで、[TRPGをやるときに便利なサイトさんまとめ](https://siodimaly.hateblo.jp/entry/20200509/1589003382)にて紹介されていたアイディアとして、\
